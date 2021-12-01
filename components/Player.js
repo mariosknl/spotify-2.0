@@ -15,7 +15,9 @@ function Player() {
   return (
     <div>
       {/* Left */}
-      <div></div>
+      <div>
+        <img src="" alt="" />
+      </div>
     </div>
   );
 }
