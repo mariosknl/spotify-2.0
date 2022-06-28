@@ -9,7 +9,7 @@
     "@heroicons/react": "1.0.6",
     "lodash": "4.17.21",
     "next": "latest",
-    "next-auth": "4.6.1",
+    "next-auth": "4.7.0",
     "react": "18.2.0",
     "react-dom": "18.2.0",
     "recoil": "0.7.4",
